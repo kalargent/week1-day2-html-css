@@ -1,0 +1,57 @@
+css 
+
+body
+  {
+    margin: 0;
+    padding: 0;
+    background-color: #efeee7;
+  }
+
+header
+  {
+    color: #333333;
+  }
+
+h1 
+  {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+    text-align: center;
+    color: #efeee7;
+    font-size: 28px;
+  }
+
+h2
+  {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+  }
+
+.container
+  {
+    margin: 0 auto;
+    width: 1024px; 
+
+  }
+
+#main-bio
+    {
+      float: left; 
+      width: 70%;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+#contact-info
+    {
+      float: left;
+      width: 30%;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+#bio-image
+    {
+      float: left;
+      width: 200px;
+    }
+
+
